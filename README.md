@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @handany-compmatsci
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in computational material science and engineering 
+- 🌱 I’m currently learning DataScience/Machine Learning
+- 💞️ I’m looking to collaborate on material science and engineering 
 - 📫 How to reach me 
 
 <!---
